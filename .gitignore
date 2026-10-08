@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Temporaires
+*.tmp
+
+# Fichiers volumineux téléchargés depuis Root-Me (binaires, archives, dumps)
+_downloads/
