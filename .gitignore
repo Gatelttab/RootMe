@@ -20,3 +20,11 @@ venv/
 
 # Fichiers volumineux téléchargés depuis Root-Me (binaires, archives, dumps)
 _downloads/
+
+# Dossier de travail / scratch (sources de chall, exploits en cours, PoC)
+_working/
+
+# Artefacts de PoC (cookie jars curl, dumps de session)
+jar
+*.cookiejar
+cookies.txt
